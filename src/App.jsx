@@ -161,6 +161,8 @@ export default function DuallockeApp() {
         // Establecer rutas de HeartGold
         setRoutes([
           "New Bark Town",
+          "Starter",
+          "Egg Event",
           "Route 29",
           "Cherrygrove City",
           "Route 30",
