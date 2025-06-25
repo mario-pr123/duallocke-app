@@ -204,6 +204,7 @@ export default function DuallockeApp() {
           "Mt. Mortar",
           "Route 43",
           "Lake of Rage",
+          "Team Rocket",
           "Route 44",
           "Ice Path",
           "Blackthorn City",
